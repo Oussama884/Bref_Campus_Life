@@ -1,0 +1,289 @@
+nav{
+    width: 1024px;
+    height: 52px;
+    background-color:#FFFFFF ;
+    display: flex;
+}
+.Youcode{
+    width: 120px;
+    height: 25px;
+    position: relative;
+    top: 11px;
+    left: 52px;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.accuiel{
+    width: 50px;
+    height: 11px;
+    position: relative;
+    top: 21px;
+    left:209px;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #034BFF;
+}
+.campus{
+    width: 60px;
+    height: 11px;
+    position: relative;
+    top: 21px;
+    left: 269px;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color:#0A1222;
+}
+.Clubs{
+    width: 99px;
+    height: 11px;
+    position: relative;
+    top:21px;
+    left:332px;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.Evenement{
+    width: 80px;
+    height: 11px;
+    position: relative;
+    top:21px;
+    left:433px;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color:#0A1222;
+}
+.conseils{
+    width: 130px;
+    height: 11px;
+    position: relative;
+    top: 21px;
+    left: 513px;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.Contact{
+    width: 65px;
+    height: 11px;
+    position: relative;
+    top: 21px;
+    left:640px ;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+
+}
+div .serche{
+    width: 42px;
+    height: 36px;
+    position: relative;
+    top: 3px;
+    left: 1024px;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.button{
+    flex-direction: row;
+    justify-self: flex-end;
+    width: 120px;
+    height: 39px; 
+    position: relative;
+    top: -50px;
+    left: 935px;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: #034BFF;
+}
+.button p{
+    width: 104px;
+    height: 28px;
+    font-weight: 700;
+    font-style:bold ;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+.hero{
+    width: 100%;
+    height: 461px;
+    background-color: #08111D;
+    display: flex;
+}
+.CAMPUS p{
+    width: 470px;
+    height: 91px;
+    position: relative;
+    top: -40px;
+    left: 56px;
+    font-weight: 900;
+    font-style: black;
+    font-size: 76px;
+    line-height: 120%;
+    initial-letter: 0%;
+    color:#FFFFFF
+}
+.LIFE p{
+    width: 270px;
+    height: 106px;
+    position: absolute;
+    top: 80px;
+    left: 56px;
+    font-weight: 900;
+    font-style: black;
+    font-size: 88px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #034BFF;
+}
+.egale p{
+    width: 65px;
+    height: 79px;
+    position: relative;
+    top: 50px;
+    left: -170px;
+    font-weight: 900;
+    font-size: 66px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color:#C7F64A ;
+}
+.vie p{
+    width: 405px;
+    height: 31px;
+    position: relative;
+    top: 180px;
+    left: -480px;
+    font-weight: 800;
+    font-size: 26px;
+    font-family: bold;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+
+}
+.txtHero pre{
+    width: 390px;
+    height: 51px;
+    position: relative;
+    top: 235px;
+    left: -980px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    letter-spacing:0% ;
+    color: #FFFFFF;
+}
+.dec {
+    flex-direction: row;
+    justify-self: flex-start;
+    width: 184px;
+    height: 42px;
+    position: relative;
+    top: 334px;
+    left: -1288px;
+    border-radius: 5px;
+    background-color: #034BFF;
+}
+.dec p{
+    width: 168px;
+    height: 14px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.voir{
+    flex-direction: row;
+    justify-self: flex-start;
+    width: 180px;
+    height: 42px;
+    position: relative;
+    top: 334px;
+    left: -1266px;
+    border: 1px;
+    border-radius: 5px;
+    background-color:#8EABFF ;
+}
+.voir p{
+    width: 160px;
+    height: 14px;
+    font-size: 700;
+    font-style: bold;
+    font-size: 12px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.A{
+    width: 20px;
+    height: 20px;
+    border-radius:10px ;
+    position: relative;
+    top: 402px;
+    left: -1600px;
+    background-color:#B8C9CF ;
+}
+
+.A p{
+     width: 20px;
+    height: 20px; 
+    font-weight: 700;
+    font-size: 10px;
+    font-style: bold;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #0A1222; 
+}
+.S{
+    w: 20px;
+    height: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 402px;
+    left: -1600px;
+    background-color:#D7C3B6 ;
+}
+.S p{
+    width: 20px;
+    height: 20px;
+    font-weight: 700;
+    font-style: bold;
+    text-align: center;
+    font-size: 10px;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.Y{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
