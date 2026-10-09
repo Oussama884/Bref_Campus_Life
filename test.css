@@ -264,13 +264,14 @@ div .serche{
     color: #0A1222; 
 }
 .S{
-    w: 20px;
+    width: 20px;
     height: 20px;
     border-radius: 10px;
     position: relative;
     top: 402px;
     left: -1600px;
     background-color:#D7C3B6 ;
+
 }
 .S p{
     width: 20px;
@@ -285,5 +286,245 @@ div .serche{
 .Y{
     width: 20px;
     height: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 402px;
+    left: -1600px;   
+    background-color:#B8C9CF;
+    display: flex;
+}
+.Y p{
+    width:20px;
+    height: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-style:bold;
+    font-size:10px;
+    letter-spacing: 0%;
+    color: #0A1222;
+    
+}
+.M{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 402px;
+    left: -1600px;   
+    background-color: #D7C3B6;
+}
+.M p{
+     width:20px;
+    height: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-style:bold;
+    font-size:10px;
+    letter-spacing: 0%;
+     color: #0A1222;
+}
+.com pre {
+    width:220px;
+    height: 26px;
+    position: relative;
+    top: 390px;
+    left:-1680px ;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.img1 img{
+    width: 589px;
+    height: 461px;
+    position: relative;
+    left: -1000px;
+
+}
+.stat{
+    width: 100%;
+    height: 92px;
+    background-color: #FFFFFF;
+    /* display: flex;
+    justify-content:space-between; */
+}
+.stat .etoil{
+    width: 42px;
+    height: 36px;
+    position: relative;
+    top: 6px;
+    left: 50px;
+    font-style:bold ;
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #034BFF;
+}
+.stat .mil{
+    width:180px;
+    height: 31px;
+     position: relative;
+    top: -65px;
+    left: 90px;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 26px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+
+}
+.stat .apprenant{
+    width:172px;
+    height: 13px;
+    position: relative;
+    top:-90px;
+    left:90px;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #47526A;
+
+}
+.stat .sep1{
+    width: 1px;
+    height: 24px;
+    position: relative;
+    top:-140px;
+    left: 244px;
+    color: #47526A;
+}
+.stat .samb1{
+    width: 42px;
+    height: 36px;
+    position: relative;
+    top: -205px;
+    left:304px;
+    font-weight: 700;
+    font-size: 30px;
+    font-style: bold;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color:#034BFF ;
+}
+.stat .num1{
+    width: 180px;
+    height: 31px;
+    position: relative;
+    top: -270px;
+    left: 360px;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 20px;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.stat .txt_num1{
+    width: 172px;
+    height: 13px;
+    position: relative;
+    top: -295px;
+    left: 360px;
+    font-weight: 400px;
+    font-size: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color:#47526A ;
+}
+.stat .sep2{
+    width: 1px;
+    height: 24px;
+    position: relative;
+    top: -340px;
+    left: 503px;
+    color: #47526A;
+}
+.stat .samb2{
+    width: 42px;
+    height: 36px;
+    position: relative;
+    top: -405px;
+    left: 558px;
+    font-weight: 700;
+    font-size: 30px;
+    font-style: bold;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #034BFF;
+
+}
+.stat .num2{
+    width: 180px;
+    height: 31px;
+    position: relative;
+    top: -475px;
+    left: 614px;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 26px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #0A1222;
+}
+.stat .eve{
+    width: 172px;
+    height: 13px;
+    position: relative;
+    top: -505px;
+    left: 614px;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #47526A;
+}
+.stat .sep3{
+    width: 1px;
+    height: 24px;
+    position: relative;
+    top: -550px;
+    left: 762px;
+    color: #47526A;
+}
+.stat .samb3{
+    width: 42px;
+    height: 36px;
+    position: relative;
+    top: -612px;
+    left: 812px;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #034BFF;
+}
+.stat .num3{
+    width: 180px;
+    height: 31px;
+    position: relative;
+    top: -680px;
+    left: 868px;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 26px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color:#0A1222 ;
+}
+.stat .ins{
+    width: 172px;
+    height: 13px;
+    position: relative;
+    top: -710px;
+    left: 868px;
+    font-weight: 400;
+    font-size: 11px;
+    font-style: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #47526A;
+
 }
